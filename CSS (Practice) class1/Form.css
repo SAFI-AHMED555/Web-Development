@@ -1,0 +1,34 @@
+.car{
+    border: 3px solid black;
+    background-color: antiquewhite;
+    text-align:center;
+    width: 50%;
+    border-radius: 20px;
+    padding: 20px;
+    margin:20px auto;
+}
+.car >h1{
+    text-transform: uppercase;
+    word-spacing: 30px;
+    letter-spacing: 15px;
+    font-size:40px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    color:indigo;
+    background-color:darkgrey  ;border-radius: 50px;
+}
+.car >p {
+    font-weight: 800;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.car >div >button{
+    background-color: rgb(179, 255, 0);
+    font-size:larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 2px dashed blue;
+    border-radius: 30px;
+    
+}

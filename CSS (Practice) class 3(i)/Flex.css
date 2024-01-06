@@ -1,0 +1,34 @@
+.parent{
+    padding: 10px;
+    display: flex;
+    justify-content:space-between; 
+    /* justify-content: center; */
+    /* justify-content: space-around; */
+    align-items:center;
+    border: 3px solid black;
+    height: 300px;
+    flex-wrap: wrap;
+    flex-direction:column-reverse;
+    /* flex-direction: column; */
+
+ }
+ 
+.inner_item{
+    background-color: aqua;
+    color: red;
+    padding: 30px;
+    margin: 5px;
+    text-align: center; 
+    height: 30px; 
+
+ }
+ @media screen and(min-width:700px) {
+    body{
+        background-color:blue;
+    }
+    visibility: ;
+    
+ }
+ 
+    
+ 

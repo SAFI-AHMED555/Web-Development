@@ -1,0 +1,9 @@
+#page {
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    text-align: center;
+    line-height: 200px;
+    cursor: pointer;
+    margin: 100px auto;
+}
